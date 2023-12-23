@@ -5,7 +5,7 @@
    },
    "manifest_version": 3,
    "name": "AdBlocker",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "🚀 Block ads, trackers, avoid dangerous sites and risks with our all-in-one adblocker. Elevate your internet experience!",
    "icons": {
       "16": "./assets/adblocker16.png",
